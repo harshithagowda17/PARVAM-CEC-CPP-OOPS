@@ -1,0 +1,5 @@
+ teacher details are as follows: 
+Name: harshitha
+ age : 18
+branch: Aiml
+ experience: 2
