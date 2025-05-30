@@ -1,0 +1,21 @@
+ the car Details are as follows:
+  Car Brand: Tata
+  Car Model: Curvv
+  Car Variant: Petrol
+  lunch year: 2025
+  offer orice:Rs. 1500000
+  Car has these feauters: 
+	1. t
+	2. iio
+--------------------------------------------- the car Details are as follows:
+  Car Brand: Audio
+  Car Model: Q6
+  Car Variant: Petrol
+  lunch year: 2019
+  offer orice:Rs. 1200005
+  Car has these feauters: 
+	1. iuui
+	2. hhh
+	3. hjj
+	4. hujk
+---------------------------------------------
