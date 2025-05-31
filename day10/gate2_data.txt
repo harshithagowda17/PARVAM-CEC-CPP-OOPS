@@ -1,0 +1,12 @@
+------------------------------
+Name: Kumar
+DOB: 3/06/2004
+Gender: M
+Category: SC
+Mobile: 1234567896
+Email: kumar@gmail.com
+Degree: B.E
+Branch: EC
+Year: 2022
+GATE Paper: 1
+------------------------------

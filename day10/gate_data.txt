@@ -1,0 +1,12 @@
+------------------------------
+Name: arshitha
+DOB: 17/06/2007
+Gender: f
+Category: OBC
+Mobile: 9876543218
+Email: harshitha@gmail.com
+Degree: B.E
+Branch: AIML
+Year: 2024
+GATE Paper: 2
+------------------------------
